@@ -1,1 +1,1 @@
-![Sponsor](https://cdn.jsdelivr.net/gh/yuyinws/sponsors/sponsorkit/sponsors.svg)
+![Sponsor](https://cdn.jsdelivr.net/gh/yuyinws/sponsors/sponsors.svg)
