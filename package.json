@@ -1,6 +1,9 @@
 {
   "private": true,
   "packageManager": "pnpm@11.15.1",
+  "scripts": {
+    "build": "sponsorkit"
+  },
   "dependencies": {
     "sponsorkit": "^17.1.1"
   }
